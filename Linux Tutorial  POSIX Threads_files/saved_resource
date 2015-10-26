@@ -1,0 +1,54 @@
+	
+	var jobthread_widget_title;
+	var jobthread_widget_outer_style;
+	var jobthread_widget_inner_style;
+	var jobthread_widget_title_style;
+	var jobthread_widget_link_style;
+	var jobthread_widget_top_style;
+	var jobthread_widget_bottom_style;
+
+	if (!jobthread_widget_title) {
+		jobthread_widget_title = "Jobs";
+	}
+	if (!jobthread_widget_outer_style) {
+		jobthread_widget_outer_style = "background-color:#dddddd;border:1px solid #999999;width:160px;";
+	}
+	if (!jobthread_widget_inner_style) {
+		jobthread_widget_inner_style = "background-color:#ffffff;color:#666666;border:1px solid #999999;padding:10px 10px 2px 8px;font:11px Arial, Helvetica, Sans-serif;line-height:16px;";
+	}
+	if (!jobthread_widget_title_style) {
+		jobthread_widget_title_style = "color:#313131;font-weight:bold;";
+	}
+	if (!jobthread_widget_link_style) {
+		jobthread_widget_link_style = "color:#0464bb;font-size:11px;font-weight:normal;text-decoration:none;border:none;";
+	}
+	if (!jobthread_widget_top_style) {
+		jobthread_widget_top_style = "padding-top:8px;";
+	}
+	if (!jobthread_widget_bottom_style) {
+		jobthread_widget_bottom_style = "padding-bottom:4px;";
+	}
+	
+
+	document.write('<div style="' + jobthread_widget_outer_style + '"><div style="' + jobthread_widget_top_style + '"><div style="margin-left:10px;margin-bottom:8px;' + jobthread_widget_title_style + '">' + jobthread_widget_title + '</div></div><div style="' + jobthread_widget_inner_style + '"><div style="margin-bottom:5px;"><a href="http://www.jobthread.com/jt/jobs/widget_click.php?id=c0e4b3&job_id=8976320" style="' + jobthread_widget_link_style + '" target="_top">Embedded C++ Entwickler in...</a><br />Darmstadt, Hessen, Germany<br />Roc Search Limited</div><div style="margin-bottom:5px;"><a href="http://www.jobthread.com/jt/jobs/widget_click.php?id=c0e4b3&job_id=8969817" style="' + jobthread_widget_link_style + '" target="_top">C/C++, C#, Regelungstechnik</a><br />Karlsruhe, Baden-Württemberg, Germany<br />Computer Futures</div><div style="margin-bottom:5px;"><a href="http://www.jobthread.com/jt/jobs/widget_click.php?id=c0e4b3&job_id=8976665" style="' + jobthread_widget_link_style + '" target="_top">IT-Consultant</a><br />Bunnik, Utrecht, Netherlands<br />Progressive Recruitment</div><div style="margin-bottom:5px;"><a href="http://www.jobthread.com/jt/jobs/widget_click.php?id=c0e4b3&job_id=8967265" style="' + jobthread_widget_link_style + '" target="_top">Softwarearchitekt Java Backend in...</a><br />Stuttgart, Baden-Württemberg, Germany<br />Computer Futures</div><div style="margin-bottom:5px;"><a href="http://www.jobthread.com/jt/jobs/widget_click.php?id=c0e4b3&job_id=8921965" style="' + jobthread_widget_link_style + '" target="_top">2 x Senior Software Engineer</a><br />Erlangen, Bayern, Germany<br />FERCHAU Engineering GmbH - Projekte</div><div style="margin-bottom:5px;"><a href="http://www.jobthread.com/jt/jobs/widget_click.php?id=c0e4b3&job_id=8976711" style="' + jobthread_widget_link_style + '" target="_top">Agentur sucht für komplexe Projekte...</a><br />München, Bayern, Germany<br />Ardekay.de</div><div style="margin-bottom:5px;"><a href="http://www.jobthread.com/jt/jobs/widget_click.php?id=c0e4b3&job_id=8757248" style="' + jobthread_widget_link_style + '" target="_top">Opening for &quot;Java Developer&quot; for one...</a><br />Seaside, CA</div><div style="margin-bottom:5px;"><a href="http://www.jobthread.com/jt/jobs/widget_click.php?id=c0e4b3&job_id=9005586" style="' + jobthread_widget_link_style + '" target="_top">Senior Drupal Developer</a><br />Kingston Upon Thames, Surrey, United...<br />JobLadder Ltd</div><div style="margin-bottom:5px;"><a href="http://www.jobthread.com/jt/jobs/widget_click.php?id=c0e4b3&job_id=8976319" style="' + jobthread_widget_link_style + '" target="_top">PHP Developer (French Speaking)</a><br />Nantes, Loire-Atlantique, France<br />Ark Resourcing</div><div style="margin-bottom:5px;"><a href="http://www.jobthread.com/jt/jobs/widget_click.php?id=c0e4b3&job_id=8921956" style="' + jobthread_widget_link_style + '" target="_top">Software-Entwicklung - C#, WPF, Java</a><br />Kassel, Hessen, Germany<br />FERCHAU Engineering GmbH - Projekte</div><div style="margin-top:10px;margin-bottom:5px;"><a href="http://www.jobthread.com/" style="text-transform:uppercase;' + jobthread_widget_link_style + '">Post a Job &gt;</a></div></div><div style="' + jobthread_widget_bottom_style + ';text-align:center;margin-top:8px;cursor:pointer;display:block;visibility:visible;" onclick="window.location=\'http://www.jobthread.com/\';"><div style="text-transform:uppercase;font-family:Arial,Helvetica;font-size:9px;cursor:pointer;">Powered by JobThread</div><img src="http://static.jobthread.com/partners/jobthread/images/logo_small.gif" style="margin-top:4px;margin-bottom:4px;margin-left:auto;margin-right:auto;border:none;" /></a></div></div>');
+
+
+
+	
+	
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+		qacct: "p-dfaywUr_Oq7jw",
+		labels: ""
+	});
+	
